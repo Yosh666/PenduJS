@@ -1,16 +1,16 @@
 Pendu:
--Faire un clavier qui fonctionne(fichier js et css à part)
+-Faire un clavier qui fonctionne(fichier js et css à part)(en cours)
 -Faire une liste de mots
 	+choisir un mot dedans
 	+eclater ce mot en tableau
 	+comment trouver la valeur lettre dans un tableau(a chercher ça)
--Trouver des images pour un pendu découper en plusieurs sections;
+-Trouver des images pour un pendu découper en plusieurs sections;(ok)
 	+utiliser if(on trouve la lettre) else (on ajoute une image)
 	+penser a un compte tour pour savoir a quel image on en est et surtout arriver a la fin du pendu!
 
 
 /*/*Comment construire son html*\*\
-d'abord un titre!
-ensuite le texte a trouver|| l'image de pendu en paralléle
-puis le clavier avec des effets couleurs sur les lettres déja utilisées
+d'abord un titre!ok
+ensuite le texte a trouver|| l'image de pendu en paralléle ok
+puis le clavier avec des effets couleurs sur les lettres déja utilisées ok
 
